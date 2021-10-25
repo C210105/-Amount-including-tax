@@ -15,5 +15,7 @@ public class Main {
 
         int amount = discountPrice + ((8 * discountPrice) / 100);//税込み８％計算する
         System.out.println("税込み金額:" + amount + "円です。");
+
+        System.out.println("見てくれてありがとう！！！");
     }
 }
